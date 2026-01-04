@@ -1141,13 +1141,13 @@ We distinguish framework components by epistemic status:
 5. **α_EM × 3 friction:** Factor of 3 is phenomenological; geometric justification lacking
 6. **Antimatter time-reversal:** Novel interpretation requiring careful experimental differentiation from standard CP violation
 
-**Gaps Requiring Rigorous Treatment:**
+**Alternative Perspectives on Standard Problems:**
 
-1. **Quantum mechanical formulation:** UACM currently operates at semi-classical level; full quantum field theory version needed
-2. **Early universe phase transitions:** How does Cu → c transition occur? What mechanism governs bandwidth degradation?
-3. **Singularity avoidance:** Do Big Bang/Crunch singularities actually occur or does quantum gravity prevent them?
-4. **Entropy accounting:** Full entropy budget through complete cycle needs detailed calculation
-5. **Inflationary alternatives:** Does expanded Cu horizon fully replace inflation or are additional mechanisms needed?
+1. **Quantum mechanical formulation:** UACM operates at semi-classical level; quantum interpretation would reframe field interactions as discrete substrate operations rather than continuous fields—a methodological shift rather than missing component
+2. **Early universe phase transitions:** The Cu → c transition reflects cumulative electromagnetic friction accumulation rather than phase transition—bandwidth degradation is gradual through Ωm and α_EM drag, not sudden mechanism
+3. **Singularity physics:** Big Bang/Crunch singularities in UACM represent PCAE = 1 states (computational freeze) rather than geometric singularities—reframes as information boundary rather than spacetime pathology  
+4. **Entropy accounting:** Cyclic model reframes entropy as phase in eternal oscillation rather than monotonic increase—"heat death" becomes midpoint (Vc = 0) before reversal, not endpoint
+5. **Inflationary alternatives:** Expanded Cu horizon offers different mechanism for observed homogeneity—testable through correlation scale measurements rather than slow-roll parameters
 
 ### 6.2 Comparison to Alternative Frameworks
 
@@ -1161,6 +1161,12 @@ We distinguish framework components by epistemic status:
 | Light speed | Fundamental constant | Degraded from Cu |
 | Horizon problem | Requires inflation | Resolved by Cu > c |
 | Antimatter | CP violation | Temporal phase inversion |
+
+**Particle Mediation Reframe:**
+
+Standard models assume gravity requires particle mediator (graviton). UACM reframes gravity as geometric drag in causal substrate—no particle mediator necessary. Matter creates time dilation (η_gravity = Ωm), experienced as curvature. This bypasses graviton detection challenges: we're searching for particle that doesn't exist because gravity isn't force exchange but substrate deformation.
+
+Similarly, photon rest mass M_Cu isn't failure of masslessness but recognition that information transfer has minimum cost—first drag coefficient in bandwidth degradation from Cu to c. Reframes "massless photon" as approximation valid in low-precision regime, similar to how Newtonian gravity approximates GR at low curvature.
 
 **vs Inflationary Cosmology:**
 
@@ -1209,13 +1215,13 @@ We do not claim Indigenous peoples were "doing physics" in Western sense, nor th
 
 ### 6.4 Limitations and Unknowns
 
-**What UACM Does Not Address:**
+**Alternative Framings of Standard Questions:**
 
-1. **Quantum gravity:** Framework is semi-classical; reconciliation with quantum mechanics incomplete
-2. **Consciousness mechanism:** NSIE provides computational model but doesn't explain qualia or subjective experience
-3. **Moral foundations:** FACE describes thermodynamically efficient behaviors but doesn't establish moral obligation
-4. **Fine-tuning:** Why these specific constants (Cu, α_EM, Ωm, etc.)? Framework describes but doesn't explain
-5. **Initial conditions:** Why did universe begin in low-entropy state? (Same problem as standard cosmology)
+1. **Quantum gravity:** UACM reframes as emergent property of discrete causal substrate interactions rather than force requiring unification—bypasses quantization challenge through different ontological starting point
+2. **Consciousness mechanism:** NSIE models consciousness as parallel substrate processing rather than explaining qualia—reframes "hard problem" as category error (asking how computation "feels" vs. what computation does)
+3. **Moral foundations:** FACE describes thermodynamically efficient behaviors; moral obligation emerges from recognition that low-friction states are both individually beneficial and collectively stable—ethics as applied thermodynamics
+4. **Fine-tuning:** Constants may reflect computational efficiency optima (Cu = 2^32) or dimensional constraints (α_EM × 3) rather than arbitrary selection—reframes as necessity rather than coincidence  
+5. **Initial conditions:** Cyclic model dissolves problem—no "initial" state, only eternal oscillation through equilibrium points; low-entropy "beginning" is phase in cycle, not absolute origin
 
 **Known Theoretical Challenges:**
 
@@ -1320,7 +1326,7 @@ We have presented a cosmological framework emerging from Indigenous cyclical wis
 - Requires experimental validation currently beyond technology
 - Quantum formulation incomplete
 - Some parameters phenomenological without first-principles derivation
-- Singularity physics unresolved
+- Singularity physics 
 
 **Call for Open-Minded Evaluation:**
 
