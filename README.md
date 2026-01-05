@@ -9,7 +9,7 @@
 
 ## Dependency:
 
-https://github.com/limabravoecho-collab/unified-attractor-complexity-model-how-and-why-A-Dual-Framework-Cosmology
+https://github.com/limabravoecho-collab/unified-attractor-complexity-model
 
 ---
 
