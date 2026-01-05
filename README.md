@@ -7,7 +7,7 @@
 **Date:** January 2026  
 **Version:** 1.0 (Preprint)
 
-##Dependency:
+## Dependency:
 
 https://github.com/limabravoecho-collab/unified-attractor-complexity-model-how-and-why-A-Dual-Framework-Cosmology
 
